@@ -1,0 +1,15 @@
+transporte\vista\ventanacamionero.class
+transporte\conexion\ConexionMysql.class
+transporte\vista\ventanaasignacion.class
+transporte\vista\sistema.class
+transporte\modelo\ciudad.class
+transporte\modelo\paquete.class
+transporte\vista\ventanacamion.class
+transporte\dao\ciudaddao.class
+transporte\modelo\camionero.class
+transporte\modelo\camionerocamion.class
+transporte\pruebaconexion.class
+transporte\vista\ventanaciudad.class
+transporte\vista\ventanapaquete.class
+transporte\SistemaTransporteUMG.class
+transporte\modelo\camion.class

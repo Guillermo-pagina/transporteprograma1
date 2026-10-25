@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/Guillermo/.m2/repository/com/mysql/mysql-connector-j/8.4.0/mysql-connector-j-8.4.0.jar;C:/Users/Guillermo/.m2/repository/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+26
+-sourcepath
+'C:/Users/Guillermo/Documents/NetBeansProjects/SistemaTransporteUMG/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Guillermo/Documents/NetBeansProjects/SistemaTransporteUMG/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SistemaTransporteUMG 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SistemaTransporteUMG 1.0-SNAPSHOT API'
+transporte.conexion
+transporte.dao
+transporte.modelo
+transporte
+transporte.vista
+C:\Users\Guillermo\.m2\repository\com\mysql\mysql-connector-j\8.4.0\mysql-connector-j-8.4.0.jar = 1791650196550
+C:\Users\Guillermo\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar = 1791650196789
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\src\main\java = 1792810653746
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\allclasses-index.html = 1792815211781
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\allpackages-index.html = 1792815211785
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\element-list = 1792815211541
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\help-doc.html = 1792815211847
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\index-all.html = 1792815211834
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\index.html = 1792815211737
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\member-search-index.js = 1792815211791
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\module-search-index.js = 1792815211787
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\overview-summary.html = 1792815211841
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\overview-tree.html = 1792815211728
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\package-search-index.js = 1792815211789
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\search.html = 1792815211838
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\serialized-form.html = 1792815211651
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\tag-search-index.js = 1792815211793
+C:\Users\Guillermo\Documents\NetBeansProjects\SistemaTransporteUMG\target\reports\apidocs\type-search-index.js = 1792815211790
